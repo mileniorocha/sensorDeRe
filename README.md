@@ -6,6 +6,8 @@
 
 ⚡ Circuito
 
+📲 Vídeo no instagram: <a target="_blank" href="https://www.instagram.com/reel/CpdA4baMiNs/?utm_source=ig_web_copy_link">➡️ Veja o vídeo clicando aqui ⬅️</a>
+
 🗒️ Lista de Componentes:
 <table class="table table-success">
  <thead>
