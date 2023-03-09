@@ -35,7 +35,6 @@
       <td>Bateria de 9v</td>
    </tr>
 </table>
-
-* A quantidade de Jumper vai depender de como foi montado o projeto
+Obs* A quantidade de Jumpers vai depender de como foi montado o projeto
 
 🧑‍💻 Feito por: Milênio Rocha
